@@ -3,13 +3,13 @@
 	<groupId>com.mycompany.app</groupId>
 	<artifactId>test.app</artifactId>
 	<packaging>jar</packaging>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<name>test.app</name>
 
 	<scm>
 		<url>http://github.com/AURIN/walkability</url>
 		<connection>scm:git:git://github.com/AURIN/walkability.git</connection>
-		<tag>HEAD</tag>
+		<tag>test.app-1.1</tag>
 	</scm>
 
 	<dependencies>
